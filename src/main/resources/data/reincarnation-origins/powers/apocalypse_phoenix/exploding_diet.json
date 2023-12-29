@@ -16,7 +16,7 @@
       }
     ]
   },
-  "cooldown": 10,
+  "cooldown": 5,
   "hud_render": {
     "should_render": false
   },
