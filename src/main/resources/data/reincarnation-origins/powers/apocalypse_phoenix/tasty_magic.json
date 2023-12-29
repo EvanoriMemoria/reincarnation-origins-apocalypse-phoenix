@@ -39,8 +39,8 @@
                 }
               },
               {
-                "type": "origins:consume",
-                "amount": 1
+                "type": "origins:execute_command",
+                "command": "item modify entity @s weapon.mainhand reincarnation-origins:consume"
               }
             ]
           }
