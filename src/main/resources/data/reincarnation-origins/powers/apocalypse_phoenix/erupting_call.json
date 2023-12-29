@@ -320,7 +320,7 @@
                 "type": "origins:resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
                 "comparison": "<",
-                "compare_to": 95
+                "compare_to": 99
               }
             ]
           },
@@ -360,7 +360,7 @@
             "type": "origins:resource",
             "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
             "comparison": ">=",
-            "compare_to": 95
+            "compare_to": 100
           },
           "action": {
             "type": "origins:and",
@@ -389,6 +389,11 @@
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
                 "change": -100
+              },
+              {
+                "type": "origins:execute_command",
+                "command": "function reincarnation-origins:apocalypse_phoenix/downgrade",
+                "permission_level": 4
               }
             ]
           }
