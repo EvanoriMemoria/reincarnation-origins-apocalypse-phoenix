@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.wet_bird.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.wet_bird.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.wet_bird.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.wet_bird.description"
 		},
 		"icon":{
 			"item":"minecraft:redstone_lamp"
@@ -17,5 +17,5 @@
 			"trigger":"minecraft:impossible"
 		}
 	},
-	"parent":"reincarnation-origins:phoenix_rebirth/path_to_ascension"
+	"parent":"reincarnation-origins:apocalypse_phoenix_rebirth/path_to_ascension"
 }

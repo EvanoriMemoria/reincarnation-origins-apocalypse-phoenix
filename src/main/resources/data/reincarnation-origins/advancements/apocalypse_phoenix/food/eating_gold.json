@@ -1,14 +1,14 @@
 {
   "display": {
     "title": {
-      "translate": "reincarnation-origins.advancements.phoenix.eating_gold.name",
+      "translate": "reincarnation-origins.advancements.apocalypse_phoenix.eating_powder.name",
       "color": "gold"
     },
     "description": {
-      "translate": "reincarnation-origins.advancements.phoenix.eating_gold.description"
+      "translate": "reincarnation-origins.advancements.apocalypse_phoenix.eating_powder.description"
     },
     "icon": {
-      "item": "minecraft:gold_ingot"
+      "item": "minecraft:gunpowder"
     },
     "announce_to_chat": false,
     "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"

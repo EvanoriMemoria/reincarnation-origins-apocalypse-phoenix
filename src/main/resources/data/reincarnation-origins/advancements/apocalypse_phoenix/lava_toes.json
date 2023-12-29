@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix.lava_toes.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.lava_toes.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix.lava_toes.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.lava_toes.description"
 		},
 		"icon":{
 			"item":"minecraft:lava_bucket"

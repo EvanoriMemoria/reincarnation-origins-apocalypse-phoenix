@@ -1,10 +1,10 @@
 {
   "display": {
     "title": {
-      "translate": "reincarnation-origins.advancements.phoenix.tastier_magic.name"
+      "translate": "reincarnation-origins.advancements.apocalypse_phoenix.tastier_magic.name"
     },
     "description": {
-      "translate": "reincarnation-origins.advancements.phoenix.tastier_magic.description"
+      "translate": "reincarnation-origins.advancements.apocalypse_phoenix.tastier_magic.description"
     },
     "icon": {
       "item": "minecraft:book"

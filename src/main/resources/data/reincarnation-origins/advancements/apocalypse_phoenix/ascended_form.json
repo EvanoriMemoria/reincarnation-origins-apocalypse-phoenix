@@ -1,11 +1,11 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix.ascended_form.name",
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.ascended_form.name",
 			"color":"gold"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix.ascended_form.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.ascended_form.description"
 		},
 		"icon":{
 			"item":"minecraft:magma_block"

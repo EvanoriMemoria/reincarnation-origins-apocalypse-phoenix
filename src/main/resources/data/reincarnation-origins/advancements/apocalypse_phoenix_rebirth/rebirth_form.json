@@ -1,11 +1,11 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.rebirth_form.name",
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.rebirth_form.name",
 			"color":"gold"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.rebirth_form.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.rebirth_form.description"
 		},
 		"icon":{
 			"item":"minecraft:feather"
@@ -18,5 +18,5 @@
 			"trigger":"minecraft:impossible"
 		}
 	},
-	"parent":"reincarnation-origins:phoenix/root"
+	"parent":"reincarnation-origins:apocalypse_phoenix/root"
 }

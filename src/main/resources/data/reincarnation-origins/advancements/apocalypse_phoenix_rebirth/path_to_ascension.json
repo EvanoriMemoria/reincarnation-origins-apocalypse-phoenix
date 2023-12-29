@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.path_to_ascension.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.path_to_ascension.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.path_to_ascension.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.path_to_ascension.description"
 		},
 		"icon":{
 			"item":"minecraft:book"
@@ -17,5 +17,5 @@
 			"trigger":"minecraft:impossible"
 		}
 	},
-	"parent":"reincarnation-origins:phoenix_rebirth/rebirth_form"
+	"parent":"reincarnation-origins:apocalypse_phoenix_rebirth/rebirth_form"
 }

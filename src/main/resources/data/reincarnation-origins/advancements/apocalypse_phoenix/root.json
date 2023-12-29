@@ -1,11 +1,11 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix.root.name",
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.root.name",
 			"color":"orange"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix.root.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.root.description"
 		},
 		"icon":{
 			"item":"minecraft:feather"

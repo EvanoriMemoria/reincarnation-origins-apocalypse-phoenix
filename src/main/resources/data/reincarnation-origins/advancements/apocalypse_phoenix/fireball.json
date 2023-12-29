@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix.fireball.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.fireball.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix.fireball.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.fireball.description"
 		},
 		"icon":{
 			"item":"minecraft:magma_block"

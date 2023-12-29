@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.sunlight.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.sunlight.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.sunlight.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.sunlight.description"
 		},
 		"icon":{
 			"item":"minecraft:glowstone"
@@ -17,5 +17,5 @@
 			"trigger":"minecraft:impossible"
 		}
 	},
-	"parent":"reincarnation-origins:phoenix_rebirth/roost"
+	"parent":"reincarnation-origins:apocalypse_phoenix_rebirth/roost"
 }

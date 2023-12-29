@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix.call.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.call.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix.call.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.call.description"
 		},
 		"icon":{
 			"item":"minecraft:goat_horn"

@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.rebirth.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.rebirth.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.rebirth.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.rebirth.description"
 		},
 		"icon":{
 			"item":"minecraft:book"
@@ -17,5 +17,5 @@
 			"trigger":"minecraft:impossible"
 		}
 	},
-	"parent":"reincarnation-origins:phoenix_rebirth/sunlight"
+	"parent":"reincarnation-origins:apocalypse_phoenix_rebirth/sunlight"
 }

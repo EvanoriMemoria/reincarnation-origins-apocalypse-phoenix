@@ -1,11 +1,11 @@
 {
   "display": {
     "title": {
-      "translate": "reincarnation-origins.advancements.phoenix.tasty_magic.name",
+      "translate": "reincarnation-origins.advancements.apocalypse_phoenix.tasty_magic.name",
       "color": "gold"
     },
     "description": {
-      "translate": "reincarnation-origins.advancements.phoenix.tasty_magic.description"
+      "translate": "reincarnation-origins.advancements.apocalypse_phoenix.tasty_magic.description"
     },
     "icon": {
       "item": "minecraft:book"

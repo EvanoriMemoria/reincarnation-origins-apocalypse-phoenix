@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.roost.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.roost.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix_rebirth.roost.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix_rebirth.roost.description"
 		},
 		"icon":{
 			"item":"minecraft:hay_block"
@@ -17,5 +17,5 @@
 			"trigger":"minecraft:impossible"
 		}
 	},
-	"parent":"reincarnation-origins:phoenix_rebirth/path_to_ascension"
+	"parent":"reincarnation-origins:apocalypse_phoenix_rebirth/path_to_ascension"
 }

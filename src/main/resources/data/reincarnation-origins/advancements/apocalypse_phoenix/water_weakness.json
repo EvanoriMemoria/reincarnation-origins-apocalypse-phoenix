@@ -1,10 +1,10 @@
 {
 	"display":{
 		"title":{
-			"translate":"reincarnation-origins.advancements.phoenix.water_weakness.name"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.water_weakness.name"
 		},
 		"description":{
-			"translate":"reincarnation-origins.advancements.phoenix.water_weakness.description"
+			"translate":"reincarnation-origins.advancements.apocalypse_phoenix.water_weakness.description"
 		},
 		"icon":{
 			"item":"minecraft:water_bucket"
