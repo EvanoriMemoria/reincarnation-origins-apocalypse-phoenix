@@ -1,7 +1,7 @@
 {
     "replace": false,
     "origins": [
-        "reincarnation-origins:phoenix",
-        "reincarnation-origins:phoenix_rebirth"
+        "reincarnation-origins:apocalypse_phoenix",
+        "reincarnation-origins:apocalypse_phoenix_rebirth"
     ]
 }
