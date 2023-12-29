@@ -10,7 +10,7 @@
       "continuous": true
     },
     "entity_action": {
-      "type": "if_else_list",
+      "type": "origins:if_else_list",
       "actions": [
         {
           "condition": {
@@ -105,7 +105,7 @@
               {
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
-                "change": -10
+                "change": -20
               }
             ]
           }
@@ -154,7 +154,7 @@
               {
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
-                "change": -10
+                "change": -30
               }
             ]
           }
@@ -203,7 +203,7 @@
               {
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
-                "change": -10
+                "change": -40
               }
             ]
           }
@@ -252,7 +252,7 @@
               {
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
-                "change": -10
+                "change": -50
               }
             ]
           }
@@ -301,7 +301,7 @@
               {
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
-                "change": -10
+                "change": -60
               }
             ]
           }
@@ -350,7 +350,7 @@
               {
                 "type": "origins:change_resource",
                 "resource": "reincarnation-origins:apocalypse_phoenix/fuel_fuelbar",
-                "change": -10
+                "change": -80
               }
             ]
           }
